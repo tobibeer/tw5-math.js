@@ -1,0 +1,12 @@
+{
+    "title": "$:/plugins/tobibeer/math.js",
+    "description": "The math.js library for use with plugins like ''tobibeer/eval''",
+    "author": "Tobias Beer",
+    "version": "2.4.2",
+    "core-version": ">=5.1.9",
+    "source": "https://github.com/tobibeer/tw5-math.js",
+    "documentation": "https://tobibeer.github.io/tw5-plugins#math.js",
+    "plugin-type": "plugin",
+	"requires": "",
+	"list": "readme"
+}

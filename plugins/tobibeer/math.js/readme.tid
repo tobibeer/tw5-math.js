@@ -1,0 +1,3 @@
+title: $:/plugins/tobibeer/math.js/readme
+
+Provides the [[math.js|http://mathjs.org]] library and that's it, e.g. for use with [[tobibeer/eval|https://tobibeer.github.io/tw5-plugins#eval]]
